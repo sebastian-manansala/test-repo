@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "TestGitGame.sln"
+    "dotnet.defaultSolution": "test-repo.sln"
 }
